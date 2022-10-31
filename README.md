@@ -36,7 +36,7 @@
 <a href="https://www.linkedin.com/in/marcus-v-faria-4a2117213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my account in Linkedin" height="30" width="40" /></a>
 
 
-<br/>
+<br /><br />
 <details>
     <summary>
         <span>Skills</span>
