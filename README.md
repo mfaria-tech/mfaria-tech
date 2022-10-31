@@ -6,7 +6,7 @@
 
  -->
 
-<style>
+<!-- <style>
     .indexes-readme {
         font-size: 16px;
         color: lightblue;
@@ -16,13 +16,16 @@
     .add-top-space {
         margin-top: 42px;
     }
-</style>
+</style> -->
 
 
 # Hey There 👋, I’m Marcus Faria
 
 
-<h3 class="indexes-readme add-top-space">About me:</h3>
+<h3 style="font-size: 16px;
+        color: lightblue;
+        font-weight: 500;
+        margin-top: 42px;">About me:</h3>
 
 - 🚀 I’m a Junior Low-code Developer
 - 🎓 Computer Network Technician Student at SENAI School "Santos Dumont”
@@ -32,13 +35,19 @@
 
 
 
-<h3 class="indexes-readme add-top-space">Connect with me:</h3>
+<h3 style="font-size: 16px;
+        color: lightblue;
+        font-weight: 500;
+        margin-top: 42px;">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/marcus-v-faria-4a2117213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my account in Linkedin" height="30" width="40" /></a>
 
 
-<details class="add-top-space">
+
+<details style="margin-top: 42px;">
     <summary>
-        <span class="indexes-readme">Skills</span>
+        <span style="font-size: 16px;
+        color: lightblue;
+        font-weight: 500;">Skills</span>
     </summary>
 
 **Languages**
