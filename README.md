@@ -22,10 +22,7 @@
 # Hey There 👋, I’m Marcus Faria
 
 
-<h3 style="font-size: 16px;
-        color: lightblue;
-        font-weight: 500;
-        margin-top: 42px;">About me:</h3>
+<h3>About me:</h3>
 
 - 🚀 I’m a Junior Low-code Developer
 - 🎓 Computer Network Technician Student at SENAI School "Santos Dumont”
@@ -35,19 +32,14 @@
 
 
 
-<h3 style="font-size: 16px;
-        color: lightblue;
-        font-weight: 500;
-        margin-top: 42px;">Connect with me:</h3>
+<h3>Connect with me:</h3>
 <a href="https://www.linkedin.com/in/marcus-v-faria-4a2117213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="my account in Linkedin" height="30" width="40" /></a>
 
 
-
-<details style="margin-top: 42px;">
+<br/>
+<details>
     <summary>
-        <span style="font-size: 16px;
-        color: lightblue;
-        font-weight: 500;">Skills</span>
+        <span>Skills</span>
     </summary>
 
 **Languages**
