@@ -13,23 +13,22 @@
 
 # Hey There 👋, I’m Marcus Faria
 
-
-
-
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 24px;">
-    <div width="400" style="margin-right: 24px;">
-        <h3>About me:</h3>
-        <ul>
-            <li>🚀 I’m a Junior Low-code Developer</li>
-            <li>🎓 Computer Network Technician Student at SENAI School "Santos Dumont”</li>
-            <li>🌱 I’m currently learning Qt e C++</li>
-            <li>💻 My projects are available at <a href="http://github.com/Marcus-Faria">github.com/Marcus-Faria]</a> and <a href="http://github.com/mfaria-tech">github.com/mfaria-tech</a></li>
-            <li>🔭 I’m interested the areas of Devops, CyberSecurity and Full-Stack Developer</li>
-        </ul>
-    </div>
+<br/>
+<div align="center">
     <img alt="my-avatar pixelart" src="./img/myavatar-pixelart.png" width="196" height="196">
 </div>
 
+
+<div>
+    <h3>About me:</h3>
+    <ul>
+        <li>🚀 I’m a Junior Low-code Developer</li>
+        <li>🎓 Computer Network Technician Student at SENAI School "Santos Dumont”</li>
+        <li>🌱 I’m currently learning Qt e C++</li>
+        <li>💻 My projects are available at <a href="http://github.com/Marcus-Faria">github.com/Marcus-Faria]</a> and <a href="http://github.com/mfaria-tech">github.com/mfaria-tech</a></li>
+        <li>🔭 I’m interested the areas of Devops, CyberSecurity and Full-Stack Developer</li>
+    </ul>
+</div>
 
 
 <h3>Connect with me:</h3>
