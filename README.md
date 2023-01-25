@@ -23,8 +23,8 @@
     <h3>About me:</h3>
     <ul>
         <li>🚀 I’m a Junior Web Developer</li>
-        <li>🎓 Computer Network Technician Student at SENAI School "Santos Dumont”</li>
-        <li>🌱 I’m currently learning Qt e C++</li>
+        <li>🎓 Computer Network Technician</li>
+        <li>🌱 I’m currently learning C and Lua</li>
         <li>💻 My projects are available at <a href="http://github.com/Marcus-Faria">github.com/Marcus-Faria</a> and <a href="http://github.com/mfaria-tech">github.com/mfaria-tech</a></li>
         <li>🔭 I’m interested the areas of Devops, CyberSecurity and Full-Stack Developer</li>
     </ul>
