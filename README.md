@@ -24,9 +24,10 @@
     <ul>
         <li>🚀 I’m a Junior Web Developer</li>
         <li>🎓 Computer Network Technician</li>
-        <li>🌱 I’m currently learning C# and .NET framework</li>
+        <li>🌱 I’m currently learning C# and .NET framework, and modeling 3D with blender</li>
         <li>💻 My projects are available at <a href="http://github.com/Marcus-Faria">github.com/Marcus-Faria</a> and <a href="http://github.com/mfaria-tech">github.com/mfaria-tech</a></li>
-        <li>🔭 I’m interested the areas of Devops, CyberSecurity and Full-Stack Developer</li>
+        <li>🕯️ Follow me in Sketchfab and view my <a href="https://sketchfab.com/mfaria4563">portfolio</a> of 3d models</li>li
+        <li>🔭 I’m interested the areas of UX, 3d modeling, Devops, CyberSecurity and Web Development</li>
     </ul>
 </div>
 
