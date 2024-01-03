@@ -22,7 +22,7 @@
 <div>
     <h3>About me:</h3>
     <ul>
-        <li>🚀 I’m a Junior Web Developer</li>
+        <li>🚀 I’m a Web Developer</li>
         <li>🎓 Computer Network Technician</li>
         <li>🌱 I’m currently learning C# and .NET framework, and modeling 3D with blender</li>
         <li>💻 My projects are available at <a href="http://github.com/Marcus-Faria">github.com/Marcus-Faria</a> and <a href="http://github.com/mfaria-tech">github.com/mfaria-tech</a></li>
