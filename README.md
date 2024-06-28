@@ -27,7 +27,7 @@
         <li>🌱 I’m currently learning C# and .NET framework, and modeling 3D with blender</li>
         <li>💻 My projects are available at <a href="http://github.com/Marcus-Faria">github.com/Marcus-Faria</a> and <a href="http://github.com/mfaria-tech">github.com/mfaria-tech</a></li>
         <li>🕯️ Follow me in Sketchfab and view my <a href="https://sketchfab.com/mfaria4563">portfolio</a> of 3d models</li>
-        <li>🌐 View my portfolio with other 3d models in <a href="https://mfaria-57289314.artstation.com/">ArtStation</a></li>
+        <li>🌐 View my portfolio with other 3d models and illustration in <a href="https://mfaria-57289314.artstation.com/">ArtStation</a>, and <a href="https://cara.app/mfaria">Cara.app</a></li>
         <li>🔭 I’m interested the areas of UX, 3d modeling, Devops, CyberSecurity and Web Development</li>
     </ul>
 </div>
@@ -40,18 +40,16 @@
 
 
 <br /><br />
-<details>
-    <summary>
-        <span>Skills</span>
-    </summary>
-
-
+<h3>Skills:</h3>
+    
 **Languages**
 
 ![JavaScript][badge-javascript]
 ![Python][badge-python]
 ![C][badge-c]
 ![C++][badge-cpp]
+![Perl][badge-perl]
+![Lua][badge-lua]
 ![PowerShell][badge-powershell]
 ![Shell Script][badge-shellscript]
 
@@ -84,7 +82,6 @@
 **Version Control**
 
 ![Git][badge-git]
-
 
 
 <!-- ###################################### -->
@@ -122,6 +119,8 @@
 [badge-python]: https://img.shields.io/badge/python-31455A?style=for-the-badge&logo=python&logoColor=white
 [badge-c]: https://img.shields.io/badge/c-31455A.svg?style=for-the-badge&logo=c&logoColor=white
 [badge-cpp]: https://img.shields.io/badge/c++-31455A.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
+[badge-perl]: https://img.shields.io/badge/perl-31455A.svg?style=for-the-badge&logo=perl&logoColor=white
+[badge-lua]: https://img.shields.io/badge/lua-31455A.svg?style=for-the-badge&logo=lua&logoColor=white
 [badge-powershell]: https://img.shields.io/badge/PowerShell-31455A.svg?style=for-the-badge&logo=powershell&logoColor=white
 [badge-shellscript]: https://img.shields.io/badge/shell_script-31455A.svg?style=for-the-badge&logo=gnu-bash&logoColor=white
 
